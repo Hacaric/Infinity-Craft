@@ -4,7 +4,8 @@
 
 **Infinity Craft is a Python recreation of the Scratch project Paper Minecraft by Griffpatch.
 It's a 2D Minecraft clone—you can mine and place blocks, move around, but survival mode and multiplayer are still in development.**</br></br>
-If you are reading this please share :D - I'm glad if anybody reads this.</br>
+Note: this project is not in development right now because I have other interests/work and this is kinda messy. I might continue later or make similar project in different language.</br>
+Contributions are welcome, read more [here](https://github.com/Hacaric/Infinity-Craft#contribute)</br>
 
 ***
 
@@ -59,11 +60,13 @@ The logo was created using this site: https://textcraft.net/
 <img width="930" height="758" alt="image" src="https://github.com/user-attachments/assets/ad7ac58b-f44b-49bf-8e3a-1845534ee614" />
 <img width="930" height="758" alt="image" src="https://github.com/user-attachments/assets/179e9cb6-0e37-491b-97e7-96f3685d5162" />
 
+## Contribute
+Contributions of any kind are welcome. Rules:
+- Write maintainable code
+- Describe what the code does or write in such a way that the code describes itself
+- **DO NOT SUBMIT UNREVIEWED AI-GENERATED CODE**
 
 
 
 
 
-
-
-__I'm actively working on this project :)__
